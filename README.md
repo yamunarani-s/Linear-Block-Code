@@ -1,4 +1,4 @@
-<img width="657" height="716" alt="image" src="https://github.com/user-attachments/assets/0fff49c1-85b9-451f-bf91-fd0e5ee174ab" /># Linear-Block-Code
+
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
